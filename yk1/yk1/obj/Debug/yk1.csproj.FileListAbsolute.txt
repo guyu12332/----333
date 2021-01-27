@@ -1,0 +1,7 @@
+C:\Users\15698\Desktop\yk1\yk1\bin\Debug\yk1.exe.config
+C:\Users\15698\Desktop\yk1\yk1\bin\Debug\yk1.exe
+C:\Users\15698\Desktop\yk1\yk1\bin\Debug\yk1.pdb
+C:\Users\15698\Desktop\yk1\yk1\obj\Debug\yk1.csprojAssemblyReference.cache
+C:\Users\15698\Desktop\yk1\yk1\obj\Debug\yk1.csproj.CoreCompileInputs.cache
+C:\Users\15698\Desktop\yk1\yk1\obj\Debug\yk1.exe
+C:\Users\15698\Desktop\yk1\yk1\obj\Debug\yk1.pdb
